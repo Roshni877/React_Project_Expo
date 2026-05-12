@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.28bf6e17.css",
+    "main.js": "/static/js/main.77735b2e.js",
+    "static/media/glass_ocean.png": "/static/media/glass_ocean.a3435e158283aa446c83.png",
+    "index.html": "/index.html",
+    "main.28bf6e17.css.map": "/static/css/main.28bf6e17.css.map",
+    "main.77735b2e.js.map": "/static/js/main.77735b2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28bf6e17.css",
+    "static/js/main.77735b2e.js"
+  ]
+}
